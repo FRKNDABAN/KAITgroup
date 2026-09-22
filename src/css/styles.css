@@ -1,3 +1,5 @@
+
+/*
 * {
   font-family: "Inter Tight", sans-serif;
 }
@@ -6,6 +8,7 @@
 *::after {
   box-sizing: border-box;
 }
+*/
 
 /* Common styles */
 @import url("./reset.css");

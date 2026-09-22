@@ -1,0 +1,17 @@
+header .container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.navlist{
+    display: flex;
+}
+
+.navlist li{
+    list-style: none;
+}
+
+header{
+    background-color: red;
+}
